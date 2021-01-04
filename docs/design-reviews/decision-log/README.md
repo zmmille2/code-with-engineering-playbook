@@ -19,7 +19,7 @@ The effort invested in design reviews and discussions can be different throughou
 
 ### Architecture Decision Record (ADR)
 
-An architecture decision record has the structure
+An architecture decision record has the structure provided in the [template](doc/adr/adr-template.md) and contextualized here.
 
 - **[Ascending number]. [Title of decision]**
 
