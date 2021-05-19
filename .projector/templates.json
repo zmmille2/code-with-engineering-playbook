@@ -1,52 +1,52 @@
 [
   {
-    "templateName": "contributing",
+    "name": "contributing",
     "filePath": "resources/templates",
     "fileName": "CONTRIBUTING.md"
   },
   {
-    "templateName": "mit-license",
+    "name": "mit-license",
     "filePath": "resources/templates",
     "fileName": "LICENSE"
   },
   {
-    "templateName": "readme",
+    "name": "readme",
     "filePath": "resources/templates",
     "fileName": "README.md"
   },
   {
-    "templateName": "trade-study",
+    "name": "trade-study",
     "filePath": "design-reviews/trade-studies",
     "fileName": "template.md",
     "outputFileName": "trade-study-template.md"
   },
   {
-    "templateName": "task-design-review",
+    "name": "task-design-review",
     "filePath": "design-reviews/recipes",
     "fileName": "task-design-review-template.md"
   },
   {
-    "templateName": "feature-story",
+    "name": "feature-story",
     "filePath": "design-reviews/recipes",
     "fileName": "feature-story-design-review-template.md"
   },
   {
-    "templateName": "milestone-epic",
+    "name": "milestone-epic",
     "filePath": "design-reviews/recipes",
     "fileName": "milestone-epic-design-review-template.md"
   },
   {
-    "templateName": "architecture-design-review",
+    "name": "architecture-design-review",
     "filePath": "decision-log/doc/adr",
     "fileName": "####-adt-template.md"
   },
   {
-    "templateName": "pull-request",
+    "name": "pull-request",
     "filePath": "code-reviews",
     "fileName": "pull-request-template.md"
   },
   {
-    "templateName": "working-agreement",
+    "name": "working-agreement",
     "filePath": "agile-development/team-agreements/working-agreements",
     "fileName": "readme.md",
     "outputFileName": "working-agreement.md"
