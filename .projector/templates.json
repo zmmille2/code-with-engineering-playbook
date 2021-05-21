@@ -42,13 +42,12 @@
   },
   {
     "name": "pull-request",
-    "filePath": "docs/code-reviews",
+    "filePath": "docs/code-reviews/pull-request-template",
     "fileName": "pull-request-template.md"
   },
   {
     "name": "working-agreement",
-    "filePath": "docs/agile-development/team-agreements/working-agreements",
-    "fileName": "readme.md",
-    "outputFileName": "working-agreement.md"
+    "filePath": "docs/agile-development/team-agreements",
+    "fileName": "working-agreements.md"
   }
 ]
